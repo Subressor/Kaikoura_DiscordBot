@@ -1,0 +1,9 @@
+# Visual Studio Stuff
+.vs
+
+# Enviornment Files
+.env
+
+# Log Files
+*.log
+
